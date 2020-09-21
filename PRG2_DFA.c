@@ -30,7 +30,7 @@ int main()
     {
         for(j=0;j<n;j++)
         {
-            printf("Q%d ",table[i][j]);
+            printf("Q%d ",table[i][j]); 
             
         }
         printf("\n");
